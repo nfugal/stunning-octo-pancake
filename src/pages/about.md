@@ -1,6 +1,6 @@
 ---
 title: "About Nate Fugal"
-date: "2019-05-04"
+date: "2021-07-26"
 author: "Nate Fugal"
 path: "/about"
 ---
@@ -12,11 +12,11 @@ _Diving head-first into tech stuff since 1993_ (ask me about my first computer u
 
 I consider myself a breadth-geek—lots of interests, none particularly deep.
 
-My current main gig is trying to make the healthcare experience suck a little less.
+My current main gig is trying to make the healthcare experience suck a little less (Hi CH!).
 
 I live in the good ol' U.S. of A. where I was born and raised.
 
-Some bits from my personal credo that I deem pertinent to these introduction-type circumstances:
+Some bits from my personal credo that I deem pertinent to these introduction―type circumstances:
 
   + **I believe in being _kind_.**
   + **I believe in _thoughtful_ design.**

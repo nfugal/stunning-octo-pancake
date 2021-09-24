@@ -18,7 +18,7 @@ Somewhere during this process I got interested in Cloudflare as [a DNS provider]
 
 Fastforward to today, I encountered CloudflarePages for the first time today (I'm prolly super behind. I know.)―which leads me to my point―I'm gonna try to migrate from Vercel to CFP.
 
-If you're reading this, it probably means that the migration worked and that my website is hosted & DNSd from start to finish using Cloudflare―they even are managing the domain registration (should you find yourself curious about how it works, check out one of the static-site generators linked above. Feel free to checkout the [GitHub repo](https://github.com/nfugal/stunning-octo-pancake) for this site too). Also likely faster now. Thanks Cloudflare!
+If you're reading this, it probably means that the migration worked and that my website is hosted & DNSd from start to finish using Cloudflare―they even are managing the domain registration (should you find yourself curious about how it works, check out one of the static-site generators linked above. Feel free to checkout the [GitHub repo](https://github.com/nfugal/stunning-octo-pancake) for this site too). Also it's likely faster now. Thanks Cloudflare!
 
 Thanks for all you've done for me Vercel. You've been great. But as an incurable tinkerer, it is time for me to try something new.
 

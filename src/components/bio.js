@@ -11,6 +11,26 @@ import profilePic from '../images/avatar.webp'
 
 import { rhythm } from '../utils/typography'
 
+const bioQuery = graphql`
+  query BioQuery {
+    avatar: file(absolutePath: { regex: "/profile-pic.jpg/" }) {
+      childImageSharp {
+        fixed(width: 50, height: 50) {
+          ...GatsbyImageSharpFixed
+        }
+      }
+    }
+    site {
+      siteMetadata {
+        author
+        social {
+          twitter
+        }
+      }
+    }
+  }
+`
+
 function Bio() {
   return (
     <StaticQuery
@@ -48,31 +68,10 @@ function Bio() {
               , but he's not very active on there, so maybe don't bother.
             </p>
           </div>
-          <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "1d36c719f19a4aa280bd9caa364d9d0a"}'></script><!-- End Cloudflare Web Analytics -->
         )
       }}
     />
   )
 }
-
-const bioQuery = graphql`
-  query BioQuery {
-    avatar: file(absolutePath: { regex: "/profile-pic.jpg/" }) {
-      childImageSharp {
-        fixed(width: 50, height: 50) {
-          ...GatsbyImageSharpFixed
-        }
-      }
-    }
-    site {
-      siteMetadata {
-        author
-        social {
-          twitter
-        }
-      }
-    }
-  }
-`
 
 export default Bio

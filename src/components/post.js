@@ -7,7 +7,7 @@ import { toKebabCase } from '../helpers'
 import Bio from './bio'
 
 
-import style from '../styles/post.module.css'
+import * as style from '../styles/post.module.css'
 
 const Post = ({
   title,

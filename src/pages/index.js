@@ -12,7 +12,7 @@ export default function IndexPage() {
   return (
     <>
       <Seo title="NateFugal.tech" />
-      <Page useSplashScreenAnimation>
+      <Page>
         <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Blog']} />
         <AboutSection sectionId="about" />
         <InterestsSection sectionId="interests" heading="Interests" />

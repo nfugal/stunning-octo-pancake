@@ -1,0 +1,37 @@
+---
+title: "VLANs Round 2"
+description: "This time I claim a small victory"
+date: "2019-09-25"
+banner:
+  src: "../../images/matrix.jpg"
+  alt: "VLANs Round 2"
+  caption: ''
+categories:
+  - "Networking"
+keywords:
+  - "VLANs"
+  - "UniFi"
+---
+
+## VLANs Round 2
+
+I know that it has been a while since I posted anything. I'm pretty sure that I don't have enough of a following for my absence to have mattered though. If I am wrong, let me know. I'll be very & pleasantly surprised.
+
+Even though it has been a while this is just a short post. A quick update on my battle with VLANs.
+
+I recently changed my home network some. With the help of a good friend I reorganized my rack and implemented some basic cable management (thanks again friend, you know who you are).
+
+As part of the physical rearranging I changed the logical layout some to. My network is no longer flat! I made some progress with VLANs!
+
+I haven't fully got them where I like just yet, but I'm getting there. I setup guest Wi-Fi on an isolated VLAN. I plan to implement further division sometime in the future.
+
+I'm pleased to have them working at all. Hopefully I'll make more progress soon.
+
+That's all for now.
+
+
+<br />
+
+_Remember, if something hasn't gone wrong yet, you're not trying hard enough._
+
+-Nate

@@ -7,7 +7,6 @@ banner:
   alt: "Home Setup 3"
   caption: ''
 categories:
-  - "Setup"
   - "Networking"
 keywords:
   - "pfSense"

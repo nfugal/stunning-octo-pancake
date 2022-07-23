@@ -7,7 +7,7 @@ banner:
   alt: "Greetings"
   caption: ''
 categories:
-  - "Intro"
+  - "Non-Tech"
 keywords:
   - "Hello Friend"
 ---

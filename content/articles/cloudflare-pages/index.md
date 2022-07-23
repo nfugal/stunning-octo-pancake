@@ -7,8 +7,7 @@ banner:
     alt: "CloudflarePages"
     caption: ""
 categories:
-    - "Setup"
-    - "Web"
+    - "Networking"
 keywords:
     - "Cloudflare"
     - "Vercel"

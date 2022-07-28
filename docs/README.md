@@ -9,4 +9,6 @@ I can't imagine it being much use to someone else, but if any of the bits here h
 
 This probably would _not_ be a very exciting repo to watch/follow.
 
+Build using the Gatsby starter gatsby-starter-portfolio-minimal-theme.
+
 -Cheers!

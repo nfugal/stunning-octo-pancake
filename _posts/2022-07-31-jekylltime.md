@@ -17,7 +17,7 @@ tags:
 
 I tried. I really did. I even turned to a different starter. But in the end (I suppose this isn't really the end) Node.js-Dependency-Hell has driven me away. So long [Gatsby](https://www.gatsbyjs.com/). It was nice knowing you. 
 
-I am now using [Jekyll](https://jekyllrb.com/) as the static-site generator for my website. We'll see how it goes, and how long it lats. Hopefully with [Dependabot](https://docs.github.com/en/code-security/dependabot/dependabot-alerts/about-dependabot-alerts) & [Snyk](https://snyk.io/) setup I'll stay more on-top of things this time around.
+I am now using [Jekyll](https://jekyllrb.com/) as the static-site generator for my website. We'll see how it goes, and how long it lasts. Hopefully with [Dependabot](https://docs.github.com/en/code-security/dependabot/dependabot-alerts/about-dependabot-alerts) & [Snyk](https://snyk.io/) setup I'll stay more on-top of things this time around.
 
 I readily admit that my choice of Jekyll may have been influenced a bit 🤏 by watching monster things recently 👾. There are probably worse ways to choose a next tool to try, right? 
 

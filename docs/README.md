@@ -1,5 +1,5 @@
 # stunning-octo-pancake
-_Cloudflare-ified website for natefugal.tech_
+
 
 #### The code behind NateFugal.tech
 
@@ -9,6 +9,6 @@ I can't imagine it being much use to someone else, but if any of the bits here h
 
 This probably would _not_ be a very exciting repo to watch/follow.
 
-Build using Jekyll and the Minimal Mistakes theme.
+Built using Jekyll and the Minimal Mistakes theme.
 
 -Cheers!

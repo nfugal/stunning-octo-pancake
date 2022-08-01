@@ -5,7 +5,7 @@ date: 2021-09-23
 header:
   overlay_image: /assets/images/system.jpg
 categories:
-  - "Networking"
+  - "Websites"
 tags:
   - "Cloudflare"
   - "Vercel"

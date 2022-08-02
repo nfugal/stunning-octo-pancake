@@ -82,7 +82,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nfugal"
     - label: "Linked-In"
-      icon: "fa-brands fa-linkedin"
+      icon: "fas fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/nfugal/"
 
 footer:
@@ -94,7 +94,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nfugal"
     - label: "Linked-In"
-      icon: "fa-brands fa-linkedin"
+      icon: "fab fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/nfugal/"
 
 defaults:

@@ -81,6 +81,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nfugal"
+    - label: "Linked-In"
+      icon: "fa-brands fa-linkedin"
+      url: "https://www.linkedin.com/in/nfugal/"
 
 footer:
   links:
@@ -90,6 +93,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nfugal"
+    - label: "Linked-In"
+      icon: "fa-brands fa-linkedin"
+      url: "https://www.linkedin.com/in/nfugal/"
 
 defaults:
   # _posts

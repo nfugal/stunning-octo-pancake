@@ -20,11 +20,22 @@ subttitle: "Version 4.0"
 email: info@natefugal.tech
 description: "Ramblings, Musings, & Projects by Nate"
 # url: "https://natefugal.tech"
+repository: "nfugal/stunning-octo-pancake" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 # teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 # masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
+comments:
+  provider: "giscus"
+  giscus:
+    repo_id              : "R_kgDOGGzg1g" # Shown during giscus setup at https://giscus.app
+    category_name        : "Announcements" # Full text name of the category
+    category_id          : "DIC_kwDOGGzg1s4CQkWx" # Shown during giscus setup at https://giscus.app
+    discussion_term      : "pathname" # "pathname" (default), "url", "title", "og:title"
+    reactions_enabled    : "1" # '1' for enabled (default), '0' for disabled
+    theme                : "dark" # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
+
 twitter_username: nfugal
 github_username: nfugal
 minimal_mistakes_skin: dark
@@ -37,7 +48,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: America/Denver # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: "America/Denver" # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages

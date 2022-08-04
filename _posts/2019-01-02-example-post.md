@@ -3,7 +3,7 @@ title: "Example Post"
 excerpt: "You know―an example post? They show you examples of stuff"
 date: 2019-01-02
 header:
-  overlay_image: /assets/images/matrix.jpg
+  overlay_image: /assets/images/matrix.webp
 categories:
   - "Setup"
   - "Tutorial"

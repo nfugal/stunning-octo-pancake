@@ -3,7 +3,7 @@ title: "Twenty-Twenty"
 excerpt: "One of myriad WTF-happened-in-2020? type posts"
 date: 2021-01-07
 header:
-  overlay_image: /assets/images/question-mark.jpg
+  overlay_image: /assets/images/question-mark.webp
   image_description: "Pile of question marks"
 categories:
   - "Non-Tech"
@@ -20,7 +20,7 @@ So you might have noticed, 2020 was a pretty... unusual year.
 Well, it was pretty unusual for me too.
 
 For one thing, I changed back to having short hair in Jan 2020. It pretty much all went downhill from there ;)
-![long hair Nate](/assets/images/nate-long-hair.jpg "Long hair") ![short hair Nate](/assets/images/nate-short-hair.jpg "Short hair")
+![long hair Nate](/assets/images/nate-long-hair.webp "Long hair") ![short hair Nate](/assets/images/nate-short-hair.webp "Short hair")
 
 
 The short version is, it started to fall out lots. I didn't go bald, but the falling out was easier to deal with with shorter individual hairs. So the return of Short Hair Nate happened.

@@ -3,7 +3,7 @@ title: "Home Setup"
 excerpt: "If a man's home is his castle, what does that make his home network?"
 date: 2019-05-25
 header:
-  overlay_image: /assets/images/fractal.jpg
+  overlay_image: /assets/images/fractal.webp
 categories:
   - "Networking"
 tags:
@@ -22,7 +22,7 @@ My network serves a couple of desktop computers, a few laptops, a handful of pho
 
 A diagram of my physical network looks something like this:
 
-![Network Diagram](/assets/images/networkdiagram.png)
+![Network Diagram](/assets/images/networkdiagram.webp)
 
 _All the devices not pictured either connect wirelessly through the APs or are wired to the Brocade switch._
 

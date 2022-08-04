@@ -3,7 +3,7 @@ title: "CloudflarePages"
 excerpt: "In this week's episode, I go all-in with Cloudflare"
 date: 2021-09-23
 header:
-  overlay_image: /assets/images/system.jpg
+  overlay_image: /assets/images/system.webp
 categories:
   - "Websites"
 tags:

@@ -3,7 +3,7 @@ title: "It's Jekyll-time"
 excerpt: "Time for _another_ migration!"
 date: 2022-07-31T22:31:00-07:00
 header:
-  overlay_image: /assets/images/mystery.jpg
+  overlay_image: /assets/images/mystery.webp
 categories:
   - "Websites"
 tags:

@@ -3,7 +3,7 @@ title: "Greetings"
 excerpt: "Hello, friend? That's lame. Maybe I should give you a name..."
 date: 2019-05-21
 header:
-  overlay_image: /assets/images/id-123456.jpg
+  overlay_image: /assets/images/id-123456.webp
 categories:
   - "Non-Tech"
 tags:

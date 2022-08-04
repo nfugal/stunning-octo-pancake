@@ -1,9 +1,9 @@
 ---
 title: "Testing Staticman for Comments"
 excerpt: "Will it work this time?"
-date: 2022-08-03T18:52:00-06:00
+date: 2022-08-03
 header:
-  overlay_image: /assets/images/kelly-sikkema-Hl3LUdyKRic-unsplash
+  overlay_image: /assets/images/kelly-sikkema-Hl3LUdyKRic-unsplash.webp
   image_description: "Writer"
 categories:
   - "Websites"

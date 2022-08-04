@@ -75,3 +75,7 @@ comments:
   # the name of the field and values are possible transformation types.
   transforms:
     email: md5
+githubAuth.clientId:
+  secret: 4uAHVOOrPu3hO+oV/XcYcdUAOV+AIdt5eMsBlgxyTsNaKpidJ+HVU9S3LrX+2PvxtgeCOJ+YE4GR0oV+Q2HETra7IUGbDw2srMtuBRXBWRfsLFwZ6JHzstuLVMQRyi23hukXoPiBQwECfyWEc6QGvbBg8NLPLtm1FWxc9SJ1Hu/AC2agXta6jLhNHgMqMoKmWOHbgE0qSeyoLmMluIn1uL//50nPJ6WR5/gS3ZUpICZ367Om4B7i19H1BsCuJ1W7nLS7r/LdfhaUEHHE/z7GANFp/g6TuCnpDqudyP3bzaC7W5Nei9AtRfQctMwn48/prvAyhiBC+qxFsY4+0xuxKw==
+githubAuth.clientSecret:
+  secret: Z/wqFHloemt/aMNb8WqgzCJhUx+e7WCp34rvkpexMOtGKcZy63tB7E+E2EvkThz8mQogBM5ssepYnG7tZ8fjJFsQpVUDB1DryP+nU3VuS6QCbLRv6z3IlKhpaIWkKe61jnIABdGq1lsmYmWkkdhpeSwiqpnPJ+DsPjAdvZZydJuZMzZtgGov9aIVe1jwF5eCbjhdAHkxMkHoYqqXzjuJAJfuV1/bUBpU35iSVzUrif5r9bJUgYqqDk+xWvnh/uT5Vj48RoYt9mi9nK3XmpyWA6PqPMRFP70EZTT+t/mqDAoDr8vpYNY02OqHwUxYg2n9M9vGQfFLVws0J9PIJoDl/g==

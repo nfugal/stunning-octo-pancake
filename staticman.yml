@@ -7,7 +7,7 @@ comments:
   #
   # Names of the fields the form is allowed to submit. If a field that is
   # not here is part of the request, an error will be thrown.
-  allowedFields: ["name", "email", "url", "message"]
+  allowedFields: ["name", "email", "url", "message", "replying_to"]
 
   # (*) REQUIRED
   #
@@ -76,6 +76,6 @@ comments:
   transforms:
     email: md5
 githubAuth.clientId:
-  secret: 4uAHVOOrPu3hO+oV/XcYcdUAOV+AIdt5eMsBlgxyTsNaKpidJ+HVU9S3LrX+2PvxtgeCOJ+YE4GR0oV+Q2HETra7IUGbDw2srMtuBRXBWRfsLFwZ6JHzstuLVMQRyi23hukXoPiBQwECfyWEc6QGvbBg8NLPLtm1FWxc9SJ1Hu/AC2agXta6jLhNHgMqMoKmWOHbgE0qSeyoLmMluIn1uL//50nPJ6WR5/gS3ZUpICZ367Om4B7i19H1BsCuJ1W7nLS7r/LdfhaUEHHE/z7GANFp/g6TuCnpDqudyP3bzaC7W5Nei9AtRfQctMwn48/prvAyhiBC+qxFsY4+0xuxKw==
+  secret: RPP6DITL+DaLyOtf9GctGNHp5t8bYrhEcTPOssiwdhFE4uLfLaL+3ZK7nltqyJMx8tPQjjMe+xCMXQFif8qt9TYcT/SXS5ARpWmdyTj3V4l8uoUlihyvvTinbf/JsFGTCUBmK/LA1dOqrMtcJ/Rr2caeDOEnsnpPlZxSXm0WHk3be7vWrBpryAJBBI+o7YMSYywm/v/pqzZu0mtV8FjW8ZK2C9gvkU29hHNYiCH4w7o8CGRXTEGab2W3JTtwLSdgafQzTwVhJTpYpNii7mz8V6Pz6mZCJIz/TcTBwTl5QjYjjAGL+d1QEWhmrdg/LR4L9CwPCFnkj1MCST5ZtCYfHA==
 githubAuth.clientSecret:
-  secret: Z/wqFHloemt/aMNb8WqgzCJhUx+e7WCp34rvkpexMOtGKcZy63tB7E+E2EvkThz8mQogBM5ssepYnG7tZ8fjJFsQpVUDB1DryP+nU3VuS6QCbLRv6z3IlKhpaIWkKe61jnIABdGq1lsmYmWkkdhpeSwiqpnPJ+DsPjAdvZZydJuZMzZtgGov9aIVe1jwF5eCbjhdAHkxMkHoYqqXzjuJAJfuV1/bUBpU35iSVzUrif5r9bJUgYqqDk+xWvnh/uT5Vj48RoYt9mi9nK3XmpyWA6PqPMRFP70EZTT+t/mqDAoDr8vpYNY02OqHwUxYg2n9M9vGQfFLVws0J9PIJoDl/g==
+  secret: xwJeq5lbxBywvUAMp0kTUn/uN61AzokLCwf7lUAlutNNvOVQH3Z3dSXgmqfqMwsdgARjGXea+vlTjnMlPDN/US7hbO3Z05/I6w0XNvTQJqImbQ14lCaozFqw6MqSPDNBDeTBuNSMbG4LxnKyhgAOfq2TAL9U3wioSc0Q/4MmGN6tgq/1DcCzMXxDAmEgbPQ6/oCKUTzW46LRTgdqXbG6AkW0CJTw7CHiT2jSTcbTj61dNZoMaVMR8Zr+Kzy0cvDdjP45GW7MTUENLE2IZW8jW1yFD1A3XDejDjTKDo8jLS89u1dIeSkF97Iq+HncmgrhucaF2aD8Amp7a8EsVvoDTg==

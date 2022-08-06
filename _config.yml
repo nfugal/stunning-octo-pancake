@@ -16,10 +16,10 @@
 locale: "en-US"
 title: NateFugal.tech
 title_separator: "|"
-subttitle: "Version 4.0"
+subttitle: "Version 5.0"
 email: info@natefugal.tech
 description: "Ramblings, Musings, & Projects by Nate"
-# url: "https://natefugal.tech"
+url: "https://natefugal.tech"
 repository: "nfugal/stunning-octo-pancake" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 # teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -139,3 +139,5 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+date_format: "%Y-%m-%d"

@@ -69,3 +69,6 @@ yarn-error.log
 .yarn-integrity
 
 .now
+
+Gemfile.lock
+_site/

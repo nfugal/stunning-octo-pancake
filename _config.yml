@@ -130,11 +130,11 @@ tag_archive:
 date_format: "%Y-%m-%d"
 
 comments:
-  provider  : "staticman_v2"
+  provider: "staticman_v2"
   staticman:
-    branch    : "main"
-    # endpoint  : https://staticman.natefugal.tech/v3/entry/github/nfugal/stunning-octo-pancake/
-    endpoint  : https://staticman.natefugal.tech/v3/entry/github/ # I'm not sure which version is correct.
+    branch: "main"
+    # endpoint: https://staticman.natefugal.tech/v3/entry/github/nfugal/stunning-octo-pancake/
+    endpoint: https://staticman.natefugal.tech/v3/entry/github/ # I'm not sure which version is correct.
   # provider: "giscus"
   # giscus:
   #   repo_id              : "R_kgDOGGzg1g" # Shown during giscus setup at https://giscus.app

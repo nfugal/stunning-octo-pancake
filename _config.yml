@@ -26,19 +26,6 @@ repository: "nfugal/stunning-octo-pancake" # GitHub username/repo-name e.g. "mmi
 # masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
-comments:
-  provider  : "staticman_v3"
-  staticman:
-    branch    : "main"
-    endpoint  : https://staticman.natefugal.tech/v3/entry/github/nfugal/stunning-octo-pancake
-  # provider: "giscus"
-  # giscus:
-  #   repo_id              : "R_kgDOGGzg1g" # Shown during giscus setup at https://giscus.app
-  #   category_name        : "Announcements" # Full text name of the category
-  #   category_id          : "DIC_kwDOGGzg1s4CQkWx" # Shown during giscus setup at https://giscus.app
-  #   discussion_term      : "pathname" # "pathname" (default), "url", "title", "og:title"
-  #   reactions_enabled    : "1" # '1' for enabled (default), '0' for disabled
-  #   theme                : "dark" # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
 
 twitter_username: nfugal
 github_username: nfugal
@@ -141,3 +128,17 @@ tag_archive:
   path: /tags/
 
 date_format: "%Y-%m-%d"
+
+comments:
+  provider  : "staticman_v2"
+  staticman:
+    branch    : "main"
+    endpoint  : https://staticman.natefugal.tech/v3/entry/github/nfugal/stunning-octo-pancake
+  # provider: "giscus"
+  # giscus:
+  #   repo_id              : "R_kgDOGGzg1g" # Shown during giscus setup at https://giscus.app
+  #   category_name        : "Announcements" # Full text name of the category
+  #   category_id          : "DIC_kwDOGGzg1s4CQkWx" # Shown during giscus setup at https://giscus.app
+  #   discussion_term      : "pathname" # "pathname" (default), "url", "title", "og:title"
+  #   reactions_enabled    : "1" # '1' for enabled (default), '0' for disabled
+  #   theme                : "dark" # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"

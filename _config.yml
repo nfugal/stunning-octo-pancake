@@ -132,7 +132,7 @@ date_format: "%Y-%m-%d"
 comments:
   provider  : "staticman_v2"
   staticman:
-    branch    : "main"
+    branch    : "tree/main"
     # endpoint  : https://staticman.natefugal.tech/v3/entry/github/nfugal/stunning-octo-pancake/
     endpoint  : https://staticman.natefugal.tech/v3/entry/github/ # I'm not sure which version is correct.
   # provider: "giscus"

@@ -16,16 +16,15 @@
 locale: "en-US"
 title: NateFugal.tech
 title_separator: "|"
-subttitle: "Version 5.0"
+subttitle: "Version 4.0"
 email: info@natefugal.tech
 description: "Ramblings, Musings, & Projects by Nate"
-url: "https://natefugal.tech"
+# url: "https://natefugal.tech"
 # teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 # masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
-
 twitter_username: nfugal
 github_username: nfugal
 minimal_mistakes_skin: dark
@@ -38,7 +37,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: "America/Denver" # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Denver # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -46,15 +45,9 @@ include:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-exclude:
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
-  - /assets/js
-  - /assets/js/lunr
-  - /assets/js/plugins
-  - /assets/js/vendor
-  - Gemfile
-  - Gemfile.lock
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
 #   - node_modules
 #   - vendor/bundle/
 #   - vendor/cache/
@@ -71,9 +64,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Nate Fugal"
-  avatar : "/assets/images/bio-photo.webp"
-  bio    : "Partner. Father. Tech-Generalist. Life-Long Learner. Those are a few titles that I feel fit me pretty comfortably."
+  name: "Nate Fugal"
+  avatar: "/assets/images/bio-photo.webp"
+  bio: "Partner. Father. Tech-Generalist. Life-Long Learner. Those are a few titles that I feel fit me pretty comfortably."
   location: "Utah USA"
   links:
     - label: "Email"
@@ -134,17 +127,9 @@ tag_archive:
 
 date_format: "%Y-%m-%d"
 
-repository: "nfugal/stunning-octo-pancake" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository: "nfugal/nfugal.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 comments:
   provider: "staticman_v2"
   staticman:
     branch: "main"
-    endpoint: https://staticman.natefugal.tech/v3/entry/github/ #Trailing / important
-  # provider: "giscus"
-  # giscus:
-  #   repo_id              : "R_kgDOGGzg1g" # Shown during giscus setup at https://giscus.app
-  #   category_name        : "Announcements" # Full text name of the category
-  #   category_id          : "DIC_kwDOGGzg1s4CQkWx" # Shown during giscus setup at https://giscus.app
-  #   discussion_term      : "pathname" # "pathname" (default), "url", "title", "og:title"
-  #   reactions_enabled    : "1" # '1' for enabled (default), '0' for disabled
-  #   theme                : "dark" # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
+    endpoint: https://staticman.natefugal.tech/v3/entry/github/
